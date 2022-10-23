@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("/assets/login_bg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.center-div{
+    padding-top: 15%;
+
+}
+
+.btn.btn-success{
+    padding: .4em 2em ;
+    /* padding-top: 4px; */
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login.title>span{
+    font-size: .8em;
+}
+h2,span{
+    color: black;
+    margin-top: 5px;
+}
+.container{
+    background-color: white
+    ;
+}
+button{
+    margin-bottom: 10px;
+}
